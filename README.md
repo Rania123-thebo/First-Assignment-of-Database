@@ -1,1 +1,1 @@
-# First-Assignment-of-Database
+# First-lab-of-Database
